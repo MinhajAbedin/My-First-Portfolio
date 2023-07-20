@@ -35,3 +35,28 @@ section{
     padding: 1%;
     border-radius: 10%;
 }
+.secound{
+    margin-top: 20px;
+    color: aqua;
+    display: flex;
+    background-color: rgb(87, 87, 179);
+    background-image: url(E:\HTML\Jhankar Course\Milestone 1\module 4\First portfolio\New folder);
+}
+.second-half-width{
+    width: 50%;
+    padding: 5%;
+}
+.second-half-width img{
+    width: 85%;
+    padding: 5%;
+    border-radius: 10%;
+}
+.cv-button{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 600;
+    background-image: linear-gradient(rgb(100, 181, 42),rgb(84, 95, 43));
+    margin: 1%;
+    padding: 1%;
+    border-radius: 10%; 
+}
