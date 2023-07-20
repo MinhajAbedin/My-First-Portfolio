@@ -10,7 +10,7 @@ h1{
     font-size: 80px;
     color: blueviolet;
 }
-section{
+.flex-container{
     
     color: aliceblue;
     display: flex;
@@ -36,7 +36,9 @@ section{
     border-radius: 10%;
 }
 .secound{
-    margin-top: 20px;
+    border-bottom: blueviolet;
+    border-radius: .5%;
+    
     color: aqua;
     display: flex;
     background-color: rgb(87, 87, 179);
@@ -60,3 +62,30 @@ section{
     padding: 1%;
     border-radius: 10%; 
 }
+.box-shadow{
+    border-radius: 2%;
+    
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    padding: 1%;
+    box-shadow: 10px 10px 30px whitesmoke;
+
+}
+#border2{
+    border-left: 10px solid wheat;
+}
+#border1{
+    border-left: 10px solid rgb(111, 109, 106);
+}
+footer{
+    text-align: center;
+    
+    
+}
+    
+
+
+
